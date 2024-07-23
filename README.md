@@ -5,3 +5,4 @@ Here's where I'll list all my attempts at creating each of the games listed in [
 ## The Games
 
 * [Pong!](https://github.com/ceafin/20GC_Challenge01_Pong/) - My project for the level 1 challenge.
+* [Flappy Bird](https://github.com/ceafin/20GC_Challenge01_FlappyBird/) - My /other/ project for the /other/ level 1 challenge.
