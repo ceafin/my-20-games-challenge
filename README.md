@@ -6,3 +6,5 @@ Here's where I'll list all my attempts at creating each of the games listed in [
 
 * [Pong!](https://github.com/ceafin/20GC_Challenge01_Pong/) - My project for the level 1 challenge.
 * [Flappy Bird](https://github.com/ceafin/20GC_Challenge01_FlappyBird/) - My /other/ project for the /other/ level 1 challenge.
+* [Breakout](https://github.com/ceafin/20GC_Challenge02_Breakout/) - My project for the level 2 challenge.
+* [Space Invaders](https://github.com/ceafin/20GC_Challenge03_SpaceInvaders) - My project for the level 3 challenge.
